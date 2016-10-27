@@ -19,3 +19,7 @@
 5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 	It would be probably quite complicate if the file is very big and if many people are about to work together. For smaller scale projects, track changes should be sufficient
+
+6. When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+ 
+	If we are unsure about if this is the right thing to do, or if we expect it to be be modified/consulted by someone else
